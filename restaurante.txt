@@ -1,0 +1,27 @@
+
+Restaurant: Nan Jing
+Adresa: Strada Gheorghe Manu, București
+
+Restaurant: Restaurant Hong Kong
+Adresa: Calea Griviței 81, București 010705
+
+Restaurant: Ganesha Caffe 
+Adresa 1: Str. Barbu Văcărescu 71-73, București 020272
+Adresa 2: Calea Victoriei 20, București 030027
+Adresa 3: Bulevardul Primăverii nr. 4, București 011971
+
+Restaurant: Weiss Beer Garden
+Adresa: Bulevardul Uverturii 132, București 060937
+
+Restaurant: Locanta Jariștea
+Adresa: George Georgescu 50-52, București 040133
+
+Restaurant: Taverna Sârbului
+Adresa: Strada Tipografilor 31, București
+
+Restaurant: Trattoria della Nonna
+Adresa: Strada D. I. Mendeleev 14, București 010364
+
+Restaurant: Szentgyörgy Pince
+Adresa: Strada Gábor Áron 14, Sfântu Gheorghe 520008
+
